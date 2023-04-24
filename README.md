@@ -1,6 +1,6 @@
 # Holographic light sheets
 
-Matlab code to simulate holographic light sheets [[1](#references)] based on discrete superpositions of scalar ideal frozen waves [[2,3](#references)].
+A <a href="https://www.mathworks.com/products/matlab.html">MATLAB</a> code to simulate holographic light sheets [[1](#references)] based on discrete superpositions of scalar ideal frozen waves [[2,3](#references)].
 
 <p align="center">
   <img src="holographic-light-sheets_code/result.jpg">
@@ -10,7 +10,7 @@ Matlab code to simulate holographic light sheets [[1](#references)] based on dis
 ## How to use
 All files you need are available at *holographic-light-sheets_code* folder.
 
-To run this code in the <a href="https://www.mathworks.com/products/matlab.html">MATLAB</a> environment:
+To run this code in the MATLAB environment:
 - Select `Browser for folder` in the upper left corner;
 - Search for the folder *holographic-light-sheets_code*;
 - Open and run the file *main_grayscale.m*.
