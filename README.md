@@ -21,7 +21,7 @@ You may change the input image and the other parameters as desired.
 This code was main developed by <a href="https://www.researchgate.net/profile/Vinicius-De-Angelis">Vinicius S. de Angelis</a> ([@vinicius-angelis]( https://github.com/vinicius-angelis )), with contributions of <a href="https://www.researchgate.net/profile/Jhonas-de-Sarro">Jhonas O. de Sarro</a> ([@jodesarro]( https://github.com/jodesarro )), in colaboration with Professor <a href="https://www.researchgate.net/profile/Leonardo-Ambrosio">Leonardo A. Ambrosio</a>, of <a href="http://www.sel.eesc.usp.br/leonardo">Applied Electromagnetics Group (AEG)</a> from University of São Paulo (USP), and the authors of Ref. [[1](#references)].
 
 ## Corresponding author
-Correspondence to the main author of this code <a href="https://www.researchgate.net/profile/Vinicius-De-Angelis">Vinicius S. de Angelis</a> preferably by <a href=mailto:vinicius.angelis@usp.br>email</a>.
+Correspondence to the main author of this code <a href="https://www.researchgate.net/profile/Vinicius-De-Angelis">Vinicius S. de Angelis</a> ([@vinicius-angelis]( https://github.com/vinicius-angelis )) preferably by <a href=mailto:vinicius.angelis@usp.br>email</a>.
 
 ## Competing interests
 The authors of Ref. [[1](#references)] have filed a provisional patent application based on their work.
